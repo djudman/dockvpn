@@ -3,5 +3,3 @@ services:
     vpn:
         build: .
         image: vpn
-
-
